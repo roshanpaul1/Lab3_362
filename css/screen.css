@@ -206,10 +206,17 @@ label {
 h1 
 {
 	font: 25px, italic, bold, sans-serif;
-    color: black;
-	font-size: 200%;
+    
+	text-align: center;
 	
 }
+
+p{
+	background-color: gray;
+	font-size:100%;
+	text-align:center;
+}
+	
 
 
 /* ===== MODULAR STYLES ===== */
