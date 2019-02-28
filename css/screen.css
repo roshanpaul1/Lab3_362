@@ -212,10 +212,15 @@ h1
 }
 
 p{
-	background-color: gray;
+	background-color: white;
 	font-size:100%;
 	text-align:center;
 }
+
+ol{
+	background-color: gray;
+}
+	
 	
 
 
