@@ -203,6 +203,13 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+h1 
+{
+	font: 25px, italic, bold, sans-serif;
+    color: black;
+	
+}
+
 
 /* ===== MODULAR STYLES ===== */
 
